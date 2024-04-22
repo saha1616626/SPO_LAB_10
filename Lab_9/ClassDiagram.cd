@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryTreeCity">
+    <Position X="4.75" Y="0.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="BinaryTreeCity::TreeNode">
+        <TypeIdentifier>
+          <NewMemberFileName>BinaryTreeCity.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAAIAEAAAiAAAAAAAAAQAkCAAIAAAAAAA=</HashCode>
+      <FileName>BinaryTreeCity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CityDecorator">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CityDecorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortCity">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>PortCity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="City">
+    <Position X="1.75" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>city.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
